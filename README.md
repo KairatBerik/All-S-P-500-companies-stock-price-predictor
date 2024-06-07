@@ -51,7 +51,11 @@ Install these packages yourself:
 - Prophet
 - Streamlit
 
-## 5. Author 
+## Author 
 
 Senior Industrial Engineering student at UIC: [Kairat Berik](https://www.linkedin.com/in/kairat-berik/).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
