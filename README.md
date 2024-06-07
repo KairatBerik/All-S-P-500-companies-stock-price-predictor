@@ -55,7 +55,7 @@ Install these packages yourself:
 
 ## Author 
 
-Industrial Engineering student at UIC | Senior | [Kairat Berik](https://www.linkedin.com/in/kairat-berik/).
+Industrial Engineering student at UIC | 4th year | [Kairat Berik](https://www.linkedin.com/in/kairat-berik/).
 
 ## License
 
