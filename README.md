@@ -35,7 +35,7 @@ Install these packages yourself:
         
 3. On the main side of the page you will see a **Main graph** with the predictions that can be chosen to show data for the last week, last month, last 6 months, last year and every single data.Also there is a **Component graphs** that gives you the overall trend and yearly and weekly seasonalities .
 
- P.S The sidebar is foldable and all graphs can be zoomed in/out. 
+ P.S. The sidebar is foldable and all graphs can be zoomed in/out. 
  
 ## 3. Features
 
