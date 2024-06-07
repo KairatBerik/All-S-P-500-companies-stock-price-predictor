@@ -26,13 +26,13 @@ Created and designed by [Kairat Berik](https://www.linkedin.com/in/kairat-berik/
 
  P.S The sidebar is foldable and all graphs can be zoomed in/out. 
  
-## Features
+## 3. Features
 
 - **Data Display**: You will be able to see the all data in history of the selected S&P 500 company. 
 
 - **Price Prediction**: Predict price changes based on the chosen range of years to be shown for as far as you would like to (10 years max). 
 
-## Technologies used
+## 4. Technologies used
 
 - Python
 - Streamlit
@@ -40,7 +40,7 @@ Created and designed by [Kairat Berik](https://www.linkedin.com/in/kairat-berik/
 - yfinance
 - Prophet
 
-## Author 
+## 5. Author 
 
 Senior Industrial Engineering student at UIC
 [Kairat Berik](https://www.linkedin.com/in/kairat-berik/).
