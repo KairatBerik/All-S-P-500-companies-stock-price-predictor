@@ -23,6 +23,7 @@ Install these packages yourself:
   pip install yfinance
   pip install prophet
   pip install streamlit
+  pip install plotly
    ```
    
 ## 2. Usage
@@ -50,6 +51,7 @@ Install these packages yourself:
 - yfinance
 - Prophet
 - Streamlit
+- plotly
 
 ## Author 
 
