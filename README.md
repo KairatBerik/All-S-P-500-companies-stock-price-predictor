@@ -4,6 +4,7 @@ This Stock Price Predictor App predicts all S&P500 companies's stock price for h
 P.S. Don't take it as a real financial advice. 
 
 
+
 Created and designed by [Kairat Berik](https://www.linkedin.com/in/kairat-berik/).
 
 ## 1. Installation
