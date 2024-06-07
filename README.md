@@ -1,19 +1,9 @@
 # Stock Price Predictor using Prophet
 This Stock Price Predictor App predicts all S&P500 companies's stock price for how far you want using a history stock price change as a base.
-# Stock Price Prediction App
 
 Created and designed by [Kairat Berik](https://www.linkedin.com/in/kairat-berik/).
 
-
-## Features
-
-- **Visualize Technical Indicators**: Explore various technical indicators such as Bollinger Bands, MACD, RSI, SMA, and EMA to gain insights into stock price trends.
-
-- **Recent Data Display**: View the most recent data of the selected stock, including the last 10 data points.
-
-- **Price Prediction**: Predict future stock prices using machine learning models including Linear Regression, Random Forest Regressor, Extra Trees Regressor, KNeighbors Regressor, and XGBoost Regressor.
-
-## Setup
+## 1. Installation
 
 1. Clone the repository:
    ```sh
@@ -29,6 +19,14 @@ Created and designed by [Kairat Berik](https://www.linkedin.com/in/kairat-berik/
    ```sh
    pip install -r requirements.txt
    ```
+
+## Features
+
+- **Visualize Technical Indicators**: Explore various technical indicators such as Bollinger Bands, MACD, RSI, SMA, and EMA to gain insights into stock price trends.
+
+- **Recent Data Display**: View the most recent data of the selected stock, including the last 10 data points.
+
+- **Price Prediction**: Predict future stock prices using machine learning models including Linear Regression, Random Forest Regressor, Extra Trees Regressor, KNeighbors Regressor, and XGBoost Regressor.
 
 ## Usage
 
