@@ -14,6 +14,17 @@ Created and designed by [Kairat Berik](https://www.linkedin.com/in/kairat-berik/
    ```sh
    pip install -r requirements.txt
    ```
+
+   **or**
+
+Install these packages yourself: 
+ ```sh
+  pip install pandas
+  pip install yfinance
+  pip install prophet
+  pip install streamlit
+   ```
+   
 ## 2. Usage
 
 1. On the sidebar you can see the **Stock Selector**, where you can:
@@ -35,10 +46,10 @@ Created and designed by [Kairat Berik](https://www.linkedin.com/in/kairat-berik/
 ## 4. Technologies used
 
 - Python
-- Streamlit
 - pandas
 - yfinance
 - Prophet
+- Streamlit
 
 ## 5. Author 
 
