@@ -7,37 +7,28 @@ Created and designed by [Kairat Berik](https://www.linkedin.com/in/kairat-berik/
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/vikasharma005/Stock-Price-Prediction.git
+   git clone https://github.com/KairatBerik/Prohpet-Stock-Price-Predictor
    ```
 
-2. Navigate to the project directory:
-   ```sh
-   cd stock-price-prediction-app
-   ```
-
-3. Install the required Python packages using pip:
+2. Install the required Python packages:
    ```sh
    pip install -r requirements.txt
    ```
+## 2. Usage
 
+1. On the sidebar you can see the **Stock Selector**, where you can:
+      - Choose the S&P 500 company you want to work with.
+      - Choose the range of years to be shown in the charts and to be used as a base for predictions.
+      - Choose number of years (in days) of how far you want to predict the stock price changes.
+2. On the main side of the page you will see a **Main graph** with the predictions that can be chosen to show data for the last week, last month, last 6 months, last year and every single data.Also there is a **Component graphs** that gives you the overall trend and yearly and weekly seasonalities .
+
+ P.S The sidebar is foldable and all graphs can be zoomed in/out. 
+ 
 ## Features
 
-- **Visualize Technical Indicators**: Explore various technical indicators such as Bollinger Bands, MACD, RSI, SMA, and EMA to gain insights into stock price trends.
+- **Data Display**: You will be able to see the all data in history of the selected S&P 500 company. 
 
-- **Recent Data Display**: View the most recent data of the selected stock, including the last 10 data points.
-
-- **Price Prediction**: Predict future stock prices using machine learning models including Linear Regression, Random Forest Regressor, Extra Trees Regressor, KNeighbors Regressor, and XGBoost Regressor.
-
-## Usage
-
-1. Run the Streamlit app:
-   ```sh
-   streamlit run app.py
-   ```
-
-2. The app will open in your default web browser. Use the sidebar to choose options for visualization, recent data display, or making price predictions.
-
-3. Follow the on-screen instructions to input the stock symbol, select a date range, and choose technical indicators or prediction models.
+- **Price Prediction**: Predict price changes based on the chosen range of years to be shown for as far as you would like to (10 years max). 
 
 ## Technologies used
 
@@ -46,3 +37,9 @@ Created and designed by [Kairat Berik](https://www.linkedin.com/in/kairat-berik/
 - pandas
 - yfinance
 - Prophet
+
+## Author 
+
+Senior Industrial Engineering student at UIC
+[Kairat Berik](https://www.linkedin.com/in/kairat-berik/).
+
