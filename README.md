@@ -17,10 +17,12 @@ Created and designed by [Kairat Berik](https://www.linkedin.com/in/kairat-berik/
 ## 2. Usage
 
 1. On the sidebar you can see the **Stock Selector**, where you can:
+   
       - Choose the S&P 500 company you want to work with.
       - Choose the range of years to be shown in the charts and to be used as a base for predictions.
       - Choose number of years (in days) of how far you want to predict the stock price changes.
-2. On the main side of the page you will see a **Main graph** with the predictions that can be chosen to show data for the last week, last month, last 6 months, last year and every single data.Also there is a **Component graphs** that gives you the overall trend and yearly and weekly seasonalities .
+        
+3. On the main side of the page you will see a **Main graph** with the predictions that can be chosen to show data for the last week, last month, last 6 months, last year and every single data.Also there is a **Component graphs** that gives you the overall trend and yearly and weekly seasonalities .
 
  P.S The sidebar is foldable and all graphs can be zoomed in/out. 
  
