@@ -29,10 +29,7 @@ years = st.sidebar.radio(
     ['5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max'], horizontal = True
 )
 
-pred = st.sidebar.radio(
-    "How far you want to predict 1-10 years(in days):",
-    ['365', '730', '1096', '1461', '1826', '2192', '2557', '2922', '3287', '3652'],horizontal = True
-)
+pred = st.sidebar.slider("How far you want to predict? (in days)", 0, 36525, 365)
 
 st.write(stock +" stock price change in "+ years + " and predicted values for the " + pred + " day period")
 
