@@ -31,7 +31,7 @@ years = st.sidebar.radio(
 
 pred = st.sidebar.slider("How far you want to predict? (in days)", 0, 36525, 365)
 
-st.write(stock +" stock price change in "+ years + " and predicted values for the " + pred + " day period")
+st.write(stock +" stock price change in "+ years + " and predicted values for the " + str(pred) + " day period")
 
 st.sidebar.write(f"You selected: {stock} ({sto}) with the base of {years} range")
 
